@@ -9,7 +9,6 @@ O projeto foi criado com foco em **UI**, **componentização**, **boas práticas
 
 ## 📱 Preview
 
-![Tela inicial](github/images/home.png)
 ![Codigo](github/images/code.png)
 
 ---
